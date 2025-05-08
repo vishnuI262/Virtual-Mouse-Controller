@@ -21,7 +21,7 @@ This project allows you to control the mouse on your computer using hand gesture
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/yourusername/virtual-mouse.git
+    git clone https://github.com/vishnuI262/Virtual-Mouse-Controller.git
     ```
 
 2. Install the required dependencies:
@@ -35,7 +35,7 @@ This project allows you to control the mouse on your computer using hand gesture
 
 1. Navigate to the project directory:
     ```bash
-    cd virtual-mouse
+    cd Virtual-Mouse-Controller
     ```
 
 2. Run the main Python script:
